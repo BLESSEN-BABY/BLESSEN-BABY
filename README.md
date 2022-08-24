@@ -5,13 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blessen-baby&label=Profile%20views&color=0e75b6&style=flat" alt="blessen-baby" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@blessen2baby" target="blank"><img src="https://img.shields.io/twitter/follow/@blessen2baby?logo=twitter&style=for-the-badge" alt="@blessen2baby" /></a> </p>
 
-- 🌱 I’m currently learning **React native.**
+
+- 🌱 I’m currently Improving  **React native.**
 
 - 💬 Ask me about **DART and MERN**
 
 - 📫 How to reach me **blessenbaby2@gmail.com**
+
+- LinkedIn- https://www.linkedin.com/in/blessen-baby-484709220/
+
+- Twitter- https://twitter.com/BLESSEN2BABY
+
+- Instagram- https://www.instagram.com/blessen2baby/?igshid=YmMyMTA2M2Y%3D
 
 - ⚡ Fun fact **I think i am Funny.**
 
